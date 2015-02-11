@@ -36,6 +36,7 @@ public class CheckCode4OrderDialog extends JDialog {
     
     /*private JButton cancelButton;*/
 
+
     private JLabel code;
     
     private TicketBuyInfo buyInfo;
